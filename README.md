@@ -5,8 +5,9 @@
 ![coco](./COCO.png)
 
 ## 实验环境
+```sh
 Python = 3.8, Cuda = 11.3, Pytorch = 1.10.1, Numpy = 1.23.1 , tqdm = 4.63.0, yaml = 0.2.5, tkinter = 8.6.11
-
+```
 ## 模型权重下载
 我们提供了COCO2014数据集下的模型权重文件，以及相关的日志文件：https://drive.google.com/drive/folders/15M2KiguWuvmptFVEaAa7HVgL1_h4CYQP?usp=drive_link
 
