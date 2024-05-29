@@ -1,0 +1,19 @@
+{
+  "backbone": "resnet101",
+  "img_size": 576,
+  "num_class": 80,
+  "gamma_pos": 0.0,
+  "gamma_neg": 2.0,
+  "asl_clip": 0.0,
+  "weight_decay": 0.01,
+  "ema_decay": 0.9997,
+  "optim": "AdamW",
+  "orid_norm": false,
+  "enc_layers": 1,
+  "dec_layers": 2,
+  "dim_feedforward": 8192,
+  "hidden_dim": 2048,
+  "dropout": 0.1,
+  "nheads": 4,
+  "pre_norm": false
+}

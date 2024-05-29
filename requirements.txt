@@ -1,0 +1,13 @@
+tqdm
+einops
+addict
+yapf
+inplace_abn
+randaugment
+termcolor
+pyyaml
+tensorboard
+scikit-learn
+pandas
+timm
+pycocotools
