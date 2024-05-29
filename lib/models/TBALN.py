@@ -109,8 +109,7 @@ class TBAL(nn.Module):
         # hyper-parameters
         self.num_classes = num_classes
         self.in_planes = 2048
-        self.transformer_dim = 2048
-        # self.gcn_dim = 512
+        self.transformer_dim = 512
         self.num_queries = num_classes
         self.n_head = 4
         self.num_encoder_layers = 2
