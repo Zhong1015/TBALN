@@ -49,4 +49,4 @@ torchrun --nnodes=1 --nproc_per_node=6 --rdzv_id=100 --rdzv_backend=c10d \
 --gpus 0,1,2,3,4,5
 ```
 ## 致谢
-我们感谢[Q2L]([https://github.com/Alibaba-MIIL/ASL](https://github.com/SlongLiu/query2labels)), [SADCL](https://github.com/yu-gi-oh-leilei/SADCL), [detr](https://github.com/facebookresearch/detr)的杰出工作和代码.
+我们感谢[Q2L](https://github.com/SlongLiu/query2labels), [SADCL](https://github.com/yu-gi-oh-leilei/SADCL), [detr](https://github.com/facebookresearch/detr)的杰出工作和代码.
